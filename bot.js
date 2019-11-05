@@ -17,6 +17,15 @@ client.on("message", message => {
  message.delete(); 
 };     
 });
+$nomention
+$newTicket[categoryID/name;No subject has been given;Hello <@$authorID>!
+
+Thanks for creating a Ticket!
+
+Please, write down your whole problem. Our anwer time should be around 10 min if we are on.
+
+Subject
+{subject};تم عمل تكت الان انتظر إدارة على رد عليك ⁦✔️⁩{channel};error please try again]
 
 
 
